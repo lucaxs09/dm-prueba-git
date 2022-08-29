@@ -1,2 +1,6 @@
 linea 1
+<<<<<<< HEAD
 linea 2 - editada desde rama main.
+=======
+linea 2 - linea modificada desde la rama lucas
+>>>>>>> lucas_branch
