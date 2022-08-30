@@ -1,0 +1,11 @@
+# Excluimos un directorio específico
+/config
+
+# excluímos un archivo específico
+# /config/database.config 
+
+# Excluir tipos específico de archivo
+# *.jpeg
+
+
+
